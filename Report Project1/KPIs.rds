@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="KPIs">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=AEIL-ANDONIS;Initial Catalog=KPIs</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>b9ab0cc0-7b21-49a8-bba0-75376a74f19e</DataSourceID>
+</RptDataSource>
